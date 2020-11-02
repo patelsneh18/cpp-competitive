@@ -13,9 +13,8 @@ Given an array of even size N, task is to find minimum value that can be added t
 An array is balanced if the sum of the left half of the array elements is equal to the sum of right half.
 
 >>[Problem 4](https://github.com/patelsneh18/cpp-competitive/blob/main/fightingTheDarkness.cpp): 
-Given an array arr[] of size N representing the size of candles which reduce by 1 unit each day.
- * The room is illuminated using the given N candles.
- * Find the maximum number of days the room is without darkness. 
+Given an array arr[] of size N representing the size of candles which reduce by 1 unit each day.The room is illuminated using the given N candles.
+Find the maximum number of days the room is without darkness. 
 
 >>[Problem 5](https://github.com/patelsneh18/cpp-competitive/blob/main/minNumToEven.cpp): 
 Given an array arr[] of size N, the task is to add the minimum number(should be greater than 0) to the array so that the sum of the array becomes even.
