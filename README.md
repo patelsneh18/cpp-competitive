@@ -2,7 +2,7 @@
 Includes Problems Solved from Various Resources
 
 
-<font size="10">Arrays 💨</font>
+<font size="50">Arrays 💨</font>
 >>[Problem 1](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/0s1sArraySort.cpp): 
 Given a binary array A[] of size N. The task is to arrange the array in increasing order.
 Note: The binary array contains only 0  and 1. Time Complexity - O(N)
