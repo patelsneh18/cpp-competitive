@@ -25,6 +25,9 @@ Given an array arr[] of size N, the task is to add the minimum number(should be 
 Given an array a[] of size N which contains elements from 0 to N-1,
 you need to find all the elements occurring more than once in the given array.
 
-
 >>[Problem 7](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/largestSubArray.cpp): 
 Given an array having both positive and negative integers. The task is to compute the length of the largest subarray with sum 0.
+
+>>[Problem 8](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/equilibriumPoint.cpp): 
+Given an array A of N positive numbers. The task is to find the first Equilibium Point in the array. 
+Equilibrium Point in an array is a position such that the sum of elements before it is equal to the sum of elements after it. [Source](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1/?category[]=Arrays&problemType=functional&difficulty[]=0&page=1&sortBy=submissions&query=category[]ArraysproblemTypefunctionaldifficulty[]0page1sortBysubmissions)
