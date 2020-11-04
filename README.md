@@ -30,4 +30,4 @@ Given an array having both positive and negative integers. The task is to comput
 
 >>[Problem 8](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/equilibriumPoint.cpp): 
 Given an array A of N positive numbers. The task is to find the first Equilibium Point in the array. 
-Equilibrium Point in an array is a position such that the sum of elements before it is equal to the sum of elements after it. [Source](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1/?category[]=Arrays&problemType=functional&difficulty[]=0&page=1&sortBy=submissions&query=category[]ArraysproblemTypefunctionaldifficulty[]0page1sortBysubmissions)
+Equilibrium Point in an array is a position such that the sum of elements before it is equal to the sum of elements after it. [more...](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1/?category[]=Arrays&problemType=functional&difficulty[]=0&page=1&sortBy=submissions&query=category[]ArraysproblemTypefunctionaldifficulty[]0page1sortBysubmissions)
