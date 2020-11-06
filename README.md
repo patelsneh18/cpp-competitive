@@ -40,3 +40,6 @@ Write a program to print all the LEADERS in the array. An element is leader if i
 
 >>[Problem 11](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/smallestMissingPos.cpp): 
 You are given an array arr[] of N integers including 0. The task is to find the smallest positive number missing from the array. [more...](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1/?category[]=Arrays&problemType=functional&page=1&sortBy=submissions&query=category[]ArraysproblemTypefunctionalpage1sortBysubmissions)
+
+>>[Problem 12](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/maxSum.cpp): 
+You are given an array arr[] of N integers including 0. The task is to find the smallest positive number missing from the array. [more...](https://practice.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1/?category[]=Arrays&problemType=functional&difficulty[]=0&page=1&sortBy=submissions&query=category[]ArraysproblemTypefunctionaldifficulty[]0page1sortBysubmissions#)
