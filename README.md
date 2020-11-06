@@ -37,3 +37,6 @@ Given an array A of integers. The task is to complete the function which returns
 
 >>[Problem 10](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/arrLeaders.cpp): 
 Write a program to print all the LEADERS in the array. An element is leader if it is greater than all the elements to its right side. And the rightmost element is always a leader. For example int the array {16, 17, 4, 3, 5, 2}, leaders are 17, 5 and 2. [more...](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1/?category[]=Arrays&problemType=functional&difficulty[]=0&page=1&sortBy=submissions&query=category[]ArraysproblemTypefunctionaldifficulty[]0page1sortBysubmissions#)
+
+>>[Problem 11](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/smallestMissingPos.cpp): 
+You are given an array arr[] of N integers including 0. The task is to find the smallest positive number missing from the array. [more...](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1/?category[]=Arrays&problemType=functional&page=1&sortBy=submissions&query=category[]ArraysproblemTypefunctionalpage1sortBysubmissions)
