@@ -43,3 +43,6 @@ You are given an array arr[] of N integers including 0. The task is to find the 
 
 >>[Problem 12](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/maxSum.cpp): 
 You are given an array arr[] of N integers including 0. The task is to find the smallest positive number missing from the array. [more...](https://practice.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1/?category[]=Arrays&problemType=functional&difficulty[]=0&page=1&sortBy=submissions&query=category[]ArraysproblemTypefunctionaldifficulty[]0page1sortBysubmissions#)
+
+>>[Problem 13](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/sortSubsequence3.cpp): 
+Given an array A of N integers, find any 3 elements in it such that A[i] < A[j] < A[k] and i < j < k.Your task is to complete the function find3Numbers which finds any 3 elements in it such that A[i] < A[j] < A[k] and i < j < k. You need to return them as a vector/ArrayList/array (depending on the language cpp/Java/Python), if no such element is present then return the empty vector of size 0. [more...](https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1/?category[]=Arrays&problemType=functional&difficulty[]=0&page=1&sortBy=submissions&query=category[]ArraysproblemTypefunctionaldifficulty[]0page1sortBysubmissions#)
