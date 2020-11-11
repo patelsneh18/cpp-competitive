@@ -52,3 +52,9 @@ Complete the function countEleLessThanOrEqual() that takes two array arr1[], arr
 
 >>[Problem 15](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/predictColumn.cpp): 
 Given a matrix(2D array) M of size N*N consisting of 0s and 1s only. The task is to find the column with maximum number of 0s.[more...](https://practice.geeksforgeeks.org/problems/predict-the-column/1)
+
+>>[Problem 16](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/countOddEven.cpp): 
+Given an array A of N elements. The task is to count number of even and odd elements in the array.[more...](https://practice.geeksforgeeks.org/problems/count-odd-even/1/)
+
+>>[Problem 17](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/maxDistBwtSameEle.cpp): 
+Given an array with repeated elements, the task is to find the maximum distance between two occurrences of an element.[more...](https://practice.geeksforgeeks.org/problems/max-distance-between-same-elements/1/)
