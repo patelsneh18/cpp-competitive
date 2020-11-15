@@ -26,6 +26,6 @@ int main()
     cout<<"Enter Elements:"<<endl;
     int arr[n];
     for (int i = 0; i < n; i++) cin>>arr[i];
-    cout<<"Max Sum is: "<<max_sum(arr, 4);
+    cout<<"Max Sum is: "<<max_sum(arr, n);
     return 0;
 }
