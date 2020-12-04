@@ -58,3 +58,27 @@ Given an array A of N elements. The task is to count number of even and odd elem
 
 >>[Problem 17](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/maxDistBwtSameEle.cpp): 
 Given an array with repeated elements, the task is to find the maximum distance between two occurrences of an element.[more...](https://practice.geeksforgeeks.org/problems/max-distance-between-same-elements/1/)
+
+>>[Problem 18](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/countTheSpecials.cpp): 
+Given an array A (may contain duplicates) of N elements and a positive integer K. The task is to count the number of elements which occurs exactly floor(N/K) times in the array.[more...](https://practice.geeksforgeeks.org/problems/count-the-specials/1)
+
+>>[Problem 19](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/isUgly.cpp): 
+Ugly numbers are numbers whose only prime factors are 2, 3 or 5. The sequence 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, …[more...](https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1)
+
+>>[Problem 20](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/isUgly.cpp): 
+Ugly numbers are numbers whose only prime factors are 2, 3 or 5. The sequence 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, …[more...](https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1)
+
+>>[Problem 21 - Maximum Index](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/maxIndex.cpp): [Problem Link](https://practice.geeksforgeeks.org/problems/maximum-index-1587115620/1)
+
+>>[Problem 22 - Maximum Index](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/maxSumConfig.cpp): [Problem Link](https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/1)
+
+>>[Problem 23 - Maximum Sum in the Configuration](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/maxSumConfig.cpp): [Problem Link](https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/1)
+
+>>[Problem 24 - Merge two Sorted Arrays](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/mergeArray.cpp): [Problem Link](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)
+
+
+>>[Problem 25 - Minimum number to form the sum even ](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/minNumToEven.cpp): [Problem Link](https://practice.geeksforgeeks.org/problems/minimum-number-to-form-the-sum-even0326/1)
+
+>>[Problem 26 - Stock Buy Sell ](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/stockBuySell.cpp): [Problem Link](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1/)
+
+>>[Problem 27 - Stock Buy Sell ](https://github.com/patelsneh18/cpp-competitive/blob/main/Arrays/stockBuySell.cpp): [Problem Link](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1/)
